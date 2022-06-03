@@ -8,7 +8,7 @@
 
 Python repository for the paper "Data Augmentation for Deep Receivers".
 
-Please cite our [paper](https://arxiv.org/abs/2103.13483), if the code is used for publishing research.
+Please cite our [paper](https://edas.info/web/ieeespawc2022/showManuscript.php?m=1570796409&type=final&ext=pdf&title=PDF+file), if the code is used for publishing research.
 
 # Table of Contents
 
